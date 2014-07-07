@@ -69,7 +69,7 @@ Humanize Duration supports the following languages:
 Credits
 -------
 
-Lovingly made by [Evan Hahn](http://evanhahn.com/) with language support by [Martin Prins](https://github.com/magarcia). Thanks to [Filipi Siqueira](https://github.com/filipi777) for Portuguese support, [Peter Rekdal Sunde](https://github.com/peters) for Norwegian support, and [Michał Janiec](https://github.com/mjjaniec) for Polish support.
+Lovingly made by [Evan Hahn](http://evanhahn.com/) with language support by [Martin Prins](https://github.com/magarcia). Thanks to [Filipi Siqueira](https://github.com/filipi777) for Portuguese support, [Peter Rekdal Sunde](https://github.com/peters) for Norwegian support, [Michał Janiec](https://github.com/mjjaniec) for Polish support and [Niels Søholm](https://github.com/nielssj) for Danish support.
 
 Licensed under the WTFPL, so you can do whatever you want.
 
